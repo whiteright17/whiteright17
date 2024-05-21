@@ -1,5 +1,7 @@
-# VadymQA
+# Vadym QA
 
-QA Engineer with experience in testing web and mobile applications across various tech sectors, including FinTech, HealthTech, RetailTech, and SportsTech. 
-
-Specialized in manual testing and automation using Python with Selenium | Appium | Playwright.
+- Software Test Engineer for Python
+- More than 4 years of experience in QA manual and automation
+- Experience working with technologies in the FinTech, HealthTech, RetailTech, and SportsTech sectors
+- Working with Selenium, Appium, and Playwright for automated testing of web and mobile applications
+- YouTube and Telegram channel called 'Mason QA | Тестувальник ПЗ'
